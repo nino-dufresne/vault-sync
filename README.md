@@ -20,3 +20,11 @@ git remote add origin git@github.com:nino-dufresne/vault-sync.git
 git branch -M main
 git push -u origin main
 ```
+
+### normal
+```
+git add .
+git commit -m "second commit"
+git push -u origin main
+```
+
